@@ -1,3 +1,3 @@
 # DATA-4382-Used-Car-Price-Prediction
-Regression based prediction of used car prices using machine learning
+Regression based prediction of used car prices using machine learning.
 This project aims to predict the resale price of used cars using machine learning regression techniques. It involves extensive data preprocessing, outlier handling, feature engineering, and model training using algorithms such as Linear Regression, Ridge Regression, XGBoost, LightGBM, and CatBoost. The dataset includes attributes like brand, mileage, engine specifications, and accident history. The final model, tuned using RandomizedSearchCV, achieved an RMSE of $13,340 on the validation set. Although the model performs reasonably well, it highlights the challenges of predicting market-driven prices with incomplete and noisy data. This repository contains the full code, preprocessing steps, evaluation metrics, and model files for reproducibility and further experimentation.
